@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@emailjs/browser": "^3.12.1",
+    "swiper": "^11.0.5"
+  }
+}
